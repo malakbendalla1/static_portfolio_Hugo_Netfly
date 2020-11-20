@@ -1,0 +1,18 @@
+# some information about you
+name: "Malak Ben Dalla"
+nickname: "Malak"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/malak.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "malak.bendalla@etudiant-isi.utm.tn"
+  phone: "+216 22506498"
+
+# some summary about what you do
+summary:
+  - I am a Computer Engineering Student
+  - I am looking for End of Studies Internship 
+  - I am interested in Machine Learning
+  - I am motivated 
+  - I love to work with some fun projects

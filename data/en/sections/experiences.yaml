@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Education
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Computer Software Engineering
+    
+  positions:
+  - designation: Higher Intitute of Computer Science
+    start: 2018 - Present, Tunisia
+
+- company:
+    name: Fundamental Licence in Computer Science
+  
+  positions:
+  - designation: Software Engineer
+    start: 2015 - 2018, Tunisia
+
+- company:
+    name: Baccalaureate in Matematics
+    
+  positions:
+  - designation: Ibn Sina High School
+    start: 2014 - 2015

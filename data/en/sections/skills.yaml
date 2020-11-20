@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Knowledge
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Spring Boot
+  icon: "/images/sections/skills/sp.png"
+
+
+- name: Angular
+  icon: "/images/sections/skills/an.png"
+
+
+- name: Docker
+  icon: "/images/sections/skills/docker.svg"
+
+
+
+- name: Machine Learning
+  icon: "/images/sections/skills/ml.jpg"
+ 
+
+- name: Python
+  icon: "/images/sections/skills/py.jpg"
+ 
+- name: Oodoo
+  icon: "/images/sections/skills/oo.png"
+  
